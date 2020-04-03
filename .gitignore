@@ -1,0 +1,6 @@
+/bin
+/lib
+**/node_modules
+*.swp
+*.swo
+/__tests__
